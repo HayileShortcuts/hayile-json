@@ -217,7 +217,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Search and replace",
+          "title": "Search and replace",
           "values": [
             {
               "description": "Find",
@@ -250,7 +250,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Multi-cursor and selection",
+          "title": "Multi-cursor and selection",
           "values": [
             {
               "description": "Insert cursor",
@@ -299,7 +299,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Rich languages editing",
+          "title": "Rich languages editing",
           "values": [
             {
               "description": "Trigger suggestion",
@@ -352,7 +352,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Editor management",
+          "title": "Editor management",
           "values": [
             {
               "description": "Close editor",
@@ -385,7 +385,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "File management",
+          "title": "File management",
           "values": [
             {
               "description": "New File",
@@ -446,7 +446,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Display",
+          "title": "Display",
           "values": [
             {
               "description": "Toggle full screen",
@@ -511,7 +511,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Debug",
+          "title": "Debug",
           "values": [
             {
               "description": "Toggle breakpoint",
@@ -540,7 +540,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Integrated terminal",
+          "title": "Integrated terminal",
           "values": [
             {
               "description": "Show integrated terminal",
@@ -575,11 +575,11 @@ And then then create a pull request.
       ]
     },
     {
-      "operatingSystem": "Mac",
+      "operativeSystem": "Mac",
       "environment": "Visual Studio Code",
       "shortcuts": [
         {
-          "tittle": "General",
+          "title": "General",
           "values": [
             {
               "description": "Show Command Palette",
@@ -608,7 +608,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Basic editing",
+          "title": "Basic editing",
           "values": [
             {
               "description": "Cut line (empty selection)",
@@ -693,7 +693,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Navigation",
+          "title": "Navigation",
           "values": [
             {
               "description": "Show all Symbols",
@@ -734,7 +734,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Search and replace",
+          "title": "Search and replace",
           "values": [
             {
               "description": "Find",
@@ -763,7 +763,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Multi-cursor and selection",
+          "title": "Multi-cursor and selection",
           "values": [
             {
               "description": "Insert cursor",
@@ -820,7 +820,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Rich languages editing",
+          "title": "Rich languages editing",
           "values": [
             {
               "description": "Trigger suggestion",
@@ -873,7 +873,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Editor management",
+          "title": "Editor management",
           "values": [
             {
               "description": "Close editor",
@@ -906,7 +906,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "File management",
+          "title": "File management",
           "values": [
             {
               "description": "New File",
@@ -967,7 +967,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Display",
+          "title": "Display",
           "values": [
             {
               "description": "Toggle full screen",
@@ -1032,7 +1032,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Debug",
+          "title": "Debug",
           "values": [
             {
               "description": "Toggle breakpoint",
@@ -1061,7 +1061,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Integrated terminal",
+          "title": "Integrated terminal",
           "values": [
             {
               "description": "Show integrated terminal",
@@ -1096,11 +1096,11 @@ And then then create a pull request.
       ]
     },
     {
-      "operatingSystem": "Linux",
+      "operativeSystem": "Linux",
       "environment": "Visual Studio Code",
       "shortcuts": [
         {
-          "tittle": "General",
+          "title": "General",
           "values": [
             {
               "description": "Show Command Palette",
@@ -1129,7 +1129,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Basic editing",
+          "title": "Basic editing",
           "values": [
             {
               "description": "Cut line (empty selection)",
@@ -1210,7 +1210,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Rich languages editing",
+          "title": "Rich languages editing",
           "values": [
             {
               "description": "Trigger suggestion",
@@ -1263,7 +1263,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Multi-cursor and selection",
+          "title": "Multi-cursor and selection",
           "values": [
             {
               "description": "Insert cursor",
@@ -1304,7 +1304,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Display",
+          "title": "Display",
           "values": [
             {
               "description": "Toggle full screen",
@@ -1373,7 +1373,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Search and replace",
+          "title": "Search and replace",
           "values": [
             {
               "description": "Find",
@@ -1402,7 +1402,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Navigation",
+          "title": "Navigation",
           "values": [
             {
               "description": "Show all Symbols",
@@ -1443,7 +1443,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Editor management",
+          "title": "Editor management",
           "values": [
             {
               "description": "Close editor",
@@ -1476,7 +1476,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "File management",
+          "title": "File management",
           "values": [
             {
               "description": "New File",
@@ -1533,7 +1533,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Debug",
+          "title": "Debug",
           "values": [
             {
               "description": "Toggle breakpoint",
@@ -1562,7 +1562,7 @@ And then then create a pull request.
           ]
         },
         {
-          "tittle": "Integrated terminal",
+          "title": "Integrated terminal",
           "values": [
             {
               "description": "Show integrated terminal",
@@ -1598,4 +1598,5 @@ And then then create a pull request.
     }
   ]
 }
+
 ```
